@@ -1,0 +1,8 @@
+total 28
+-rwxrwxrwx 1 michael michael   168 Oct  3 22:00 IPC Project.vcxproj.user
+-rwxrwxrwx 1 michael michael 16504 Oct  3 23:50 time
+-rwxrwxrwx 1 michael michael  2978 Oct  3 23:50 time_pipe.c
+-rwxrwxrwx 1 michael michael     0 Oct  3 23:50 time_pipe_output.txt
+-rwxrwxrwx 1 michael michael  3095 Oct  3 23:50 time_shm.c
+drwxrwxrwx 1 michael michael  4096 Oct  3 22:01 x64
+Elapsed time: 0.011713 seconds
