@@ -1,5 +1,8 @@
 // time_shm.c : This file contains the 'main' function. Program execution begins and ends there.
-//
+// Group: Group 1
+// Names: Baser Abrahim, Yuxuan(Jack) He, Michael Rueter, Bryant Hernandez, HuuNgoc Nguyen
+// Course/Section: CPSC351 - Section 18102
+// Assignment: Programming Assignment 2 - IPC
 
 #include <stdio.h>
 #include <stdlib.h>
